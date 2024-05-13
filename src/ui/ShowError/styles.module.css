@@ -1,0 +1,9 @@
+.showError {
+    max-width: 300px;
+    width: 100%;
+    padding: 6px 16px;
+    color: rgb(95, 33, 32);
+    background-color: rgb(253, 237, 237);
+    margin: 10px;
+    border-radius: 4px;
+}
